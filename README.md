@@ -1,2 +1,2 @@
 # Email-Spammer
-use in legal matter only. (Spam your friends if they have spammed you) 
+Email spammer is ready for use, everything what you need to is very simple, follow the guidlines on the python.
